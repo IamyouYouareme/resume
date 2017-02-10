@@ -1,4 +1,4 @@
-# resume
+
 <h1>김민지(Kim Min Ji) :sparkles:</h1>
 <h2>Junior Developer</h2>
 신입 개발자로 지원합니다. :boom:
