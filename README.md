@@ -70,6 +70,7 @@
 >  > Adaptive Web 프론트, 백앤드 코딩<br>
 >  > 협동 프로젝트로 현재 진행중
   
+  
 <h4>[인턴] 반조리 식품 오픈 마켓</h4>
 > node.js, meteor, mongodb, mailchimp, iamport<br>
 >  > 탈퇴기능 구현 (mailchimp 연동)<br>
