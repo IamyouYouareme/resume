@@ -6,13 +6,17 @@
 
 <h3>Language experiments</h3>
 > javascript(🖤), HTML5(🖤), css3(🖤), less(🖤), sass, bootstrap(🖤), jquery(🖤)
+
 > node.js(🖤), Python, Ruby, Java, JSP Servlet 
+
 > MongoDB(🖤), MySQL
 
 
 <h3>Framework experiments</h3>
 > grunt, bower
+
 > redmine, slack, trello, git, sourcetree, fiddler, nginx, mongochef, 
+
 > meteor, django, 
 
 <h3>Projects</h3>
@@ -33,5 +37,6 @@
 <h3>QA</h3>
 > 2014/10 ~ 2014/12
 > 줌인터넷
+
 <h3>Sungshin Women's University</h3>
 > 2014/08 
