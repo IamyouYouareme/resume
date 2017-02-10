@@ -1,15 +1,19 @@
 # resume
-<h2>2016년 12월</h2>
-> meteor.js 
+<h1>김민지(Kim Min Ji) :sparkles:</h1>
+<h2>Junior Developer</h2>
+신입 개발자로 지원합니다. :boom:
 
-<h2>2016년 07월 ~ 2016년 09월</h2>
-> RoR
+<h3>meteor.js / django</h3>
+> 2016/12 ~
 
-<h2>2015년 12 ~ 2016년 03월</h2>
-> JSP
+<h3>RoR</h3>
+> 2016/07 ~ 2016/09
 
-<h2>2014년 10월 ~ 2014년 12월</h2>
-> QA
+<h3>JSP</h3>
+> 2015/12 ~ 2016/03
 
-<h2>2014년 08월</h2>
-> Sungshin Women's University
+<h3>QA</h3>
+> 2014/10 ~ 2014/12
+
+<h3>Sungshin Women's University</h3>
+> 2014/08 
