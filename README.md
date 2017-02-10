@@ -3,7 +3,9 @@
 <h2>Junior Developer</h2>
 신입 개발자로 지원합니다. :boom:
 
-<h3>meteor.js / django</h3>
+<h3>django</h3>
+> 도서서비스
+<h3>meteor.js</h3>
 > 2016/12 ~
 
 <h3>RoR</h3>
