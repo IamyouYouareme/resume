@@ -78,12 +78,12 @@
 > 2016/12 ~ 2017/01
   
 <h4>리프레쉬 클럽</h4>
-B2B 헬스케어 멤버십 서비스
+> B2B 헬스케어 멤버십 서비스<br>
 > html5, jquery, less, grunt, bower<br>
 >  > 사용자 메인 페이지(단일) Responsive Web 코딩 (http://v2.refreshclub.co.kr/)<br>
 >  > 관리자 페이지 프론트 코딩<br>
 > 2016/10 ~ 2016/12
 
-<h3>[인턴] 줌 인터넷</h3>
-Swing Browser, egloos, 알툴바 QA<br>
+<h4>[인턴] 줌 인터넷</h4>
+> Swing Browser, egloos, 알툴바 QA<br>
 > 2014/10 ~ 2014/12
