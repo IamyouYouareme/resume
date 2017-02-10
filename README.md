@@ -1,7 +1,14 @@
 
 <h1>김민지(Kim Min Ji) :sparkles:</h1>
 <h2>Junior Developer</h2>
-신입 개발자로 지원합니다. :boom:
+프론트 신입 개발자로 지원합니다.
+
+<h3>Language stack</h3>
+> javascript(:boom:), html5, css/less/sass, bootstrap, jquery
+> node.js(:boom:), Python, Ruby, java 
+> MongoDB(:boom:), MySQL
+
+:boom: = 가장 많이 사용해본것
 
 <h3>django</h3>
 > 도서서비스
