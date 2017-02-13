@@ -15,22 +15,10 @@
 
 <h3>Language experiments</h3>
 <h4>Front-end</h4>
-* HTML5(🖤)
-* javascript(🖤)
-* css3(🖤)
-* less(🖤)
-* sass
-* bootstrap(🖤)
-* jquery(🖤)
+* HTML5(🖤), javascript(🖤), css3(🖤), less(🖤), sass, bootstrap(🖤), jquery(🖤)
 
 <h4>Back-end</h4>
-* node.js(🖤)
-* Python
-* Ruby
-* Java
-* JSP Servlet 
-* MongoDB(🖤)
-* MySQL
+* node.js(🖤), Python, Ruby, Java, JSP Servlet, MongoDB(🖤), MySQL
 
 <h3>Tool Experiments</h3>
 <h4>IDE</h4>
