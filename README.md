@@ -48,8 +48,7 @@
 <h3>Projects</h3>
 
 <h4>코빗</h4>
-> react.js & rails<br>
-> eslint, es6
+> react.js를 기반 eslint 툴 적용하여 es6 기준으로 컴포넌트 개발<br>
 > 2017/03 ~ 2017/06
  
   
